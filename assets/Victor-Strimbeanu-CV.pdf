@@ -1,143 +1,144 @@
 %PDF-1.4
-%ASCII-PDF
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Length 7507 >>
-stream
-0.114 0.231 0.400 rg BT /F2 21 Tf 1 0 0 1 45.00 792.00 Tm (Victor-Alexandru Str\356mbeanu) Tj ET
-0.086 0.522 0.459 rg BT /F2 10.5 Tf 1 0 0 1 45.00 775.00 Tm (JUNIOR DATA ANALYST) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.2 Tf 1 0 0 1 45.00 760.00 Tm (Romania) Tj ET
-0.390 0.450 0.490 rg BT /F1 8.2 Tf 1 0 0 1 81.00 760.00 Tm (|) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.2 Tf 1 0 0 1 92.00 760.00 Tm (+40 731 367 914) Tj ET
-0.390 0.450 0.490 rg BT /F1 8.2 Tf 1 0 0 1 173.00 760.00 Tm (|) Tj ET
-0.086 0.522 0.459 rg BT /F1 8.2 Tf 1 0 0 1 184.00 760.00 Tm (victor.str8@gmail.com) Tj ET
-0.390 0.450 0.490 rg BT /F1 8.2 Tf 1 0 0 1 278.54 760.00 Tm (|) Tj ET
-0.086 0.522 0.459 rg BT /F2 8.2 Tf 1 0 0 1 288.54 760.00 Tm (Portfolio) Tj ET
-0.390 0.450 0.490 rg BT /F1 8.2 Tf 1 0 0 1 331.92 760.00 Tm (|) Tj ET
-0.086 0.522 0.459 rg BT /F1 8.2 Tf 1 0 0 1 341.92 760.00 Tm (GitHub) Tj ET
-0.114 0.231 0.400 rg BT /F2 10.4 Tf 1 0 0 1 45.00 739.00 Tm (PROFILE) Tj ET
-0.114 0.231 0.400 RG 0.65 w 45 735.80 m 550 735.80 l S
-0.145 0.190 0.230 rg BT /F1 8.45 Tf 1 0 0 1 52.00 721.00 Tm (Junior Data Analyst with a Computer and Communications Engineering background and hands-on experience building a retail sales) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.45 Tf 1 0 0 1 52.00 710.70 Tm (analysis workflow. Uses Excel, SQL, BigQuery and Looker Studio to validate data, analyse performance and communicate) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.45 Tf 1 0 0 1 52.00 700.40 Tm (business-relevant findings.) Tj ET
-0.114 0.231 0.400 rg BT /F2 10.4 Tf 1 0 0 1 45.00 687.10 Tm (SELECTED DATA PROJECT) Tj ET
-0.114 0.231 0.400 RG 0.65 w 45 683.90 m 550 683.90 l S
-0.145 0.190 0.230 rg BT /F2 8.7 Tf 1 0 0 1 52.00 669.10 Tm (Superstore Sales & Profitability Analysis) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 430.00 669.10 Tm (Independent project) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.35 Tf 1 0 0 1 52.00 657.10 Tm (Analysed 9,994 retail records across sales, profit, quantity, products, regions and time using Excel, SQL/BigQuery and Looker Studio.) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.35 Tf 1 0 0 1 52.00 647.00 Tm (Built an interactive dashboard and reported $2.297M in sales, $286.4K in profit and a 12.47% overall margin; identified Furniture as a) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.35 Tf 1 0 0 1 52.00 636.90 Tm (category for deeper margin and cost review.) Tj ET
-0.086 0.522 0.459 rg BT /F2 8.1 Tf 1 0 0 1 52.00 626.80 Tm (Project links:) Tj ET
-0.086 0.522 0.459 rg BT /F1 8.1 Tf 1 0 0 1 109.00 626.80 Tm (Live dashboard) Tj ET
-0.390 0.450 0.490 rg BT /F1 8.1 Tf 1 0 0 1 173.97 626.80 Tm (|) Tj ET
-0.086 0.522 0.459 rg BT /F1 8.1 Tf 1 0 0 1 182.97 626.80 Tm (GitHub repository) Tj ET
-0.114 0.231 0.400 rg BT /F2 10.4 Tf 1 0 0 1 45.00 611.80 Tm (EXPERIENCE) Tj ET
-0.114 0.231 0.400 RG 0.65 w 45 608.60 m 550 608.60 l S
-0.145 0.190 0.230 rg BT /F2 8.7 Tf 1 0 0 1 52.00 593.80 Tm (DevOps Intern) Tj ET
-0.390 0.450 0.490 rg BT /F1 8.2 Tf 1 0 0 1 112.00 593.80 Tm (| Luxoft) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 455.00 593.80 Tm (Jul 2025 \226 Oct 2025) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.15 Tf 1 0 0 1 59.00 582.80 Tm (- Worked with Git and CI/CD workflows, GitHub Actions pipelines, and gained exposure to SAST/DAST security practices and cloud) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.15 Tf 1 0 0 1 59.00 573.20 Tm (fundamentals.) Tj ET
-0.145 0.190 0.230 rg BT /F2 8.7 Tf 1 0 0 1 52.00 561.60 Tm (IT Support Technician) Tj ET
-0.390 0.450 0.490 rg BT /F1 8.2 Tf 1 0 0 1 147.00 561.60 Tm (| Wolcar SRL) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 455.00 561.60 Tm (Nov 2024 \226 Mar 2025) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.15 Tf 1 0 0 1 59.00 550.60 Tm (- Provided Windows and small-office network support; assisted with patching and security configurations, network diagnostics, traffic) Tj ET
-0.145 0.190 0.230 rg BT /F1 8.15 Tf 1 0 0 1 59.00 541.00 Tm (analysis, and incident documentation.) Tj ET
-0.114 0.231 0.400 rg BT /F2 10.4 Tf 1 0 0 1 45.00 528.00 Tm (EDUCATION) Tj ET
-0.114 0.231 0.400 RG 0.65 w 45 524.80 m 550 524.80 l S
-0.145 0.190 0.230 rg BT /F2 8.25 Tf 1 0 0 1 52.00 510.00 Tm (Bachelor of Engineering \226 Computer and Communications Engineering) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 456.00 510.00 Tm (2022 \226 2026) Tj ET
-0.145 0.190 0.230 rg BT /F1 7.9 Tf 1 0 0 1 52.00 500.00 Tm (University of Craiova \267 Faculty of Automation, Computers and Electronics \267 Romania) Tj ET
-0.145 0.190 0.230 rg BT /F2 8.2 Tf 1 0 0 1 52.00 489.00 Tm (Erasmus+ Exchange) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 143.00 489.00 Tm (| University of M\341laga, Spain) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 455.00 489.00 Tm (Jan 2024 \226 Jul 2024) Tj ET
-0.145 0.190 0.230 rg BT /F2 8.2 Tf 1 0 0 1 52.00 478.00 Tm (Erasmus+ Blended Intensive Programme) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 222.00 478.00 Tm (| International Hellenic University, Greece) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 455.00 478.00 Tm (Sep 2023 \226 Oct 2023) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.9 Tf 1 0 0 1 52.00 468.00 Tm (Internet of Things applications in underwater survey) Tj ET
-0.114 0.231 0.400 rg BT /F2 10.4 Tf 1 0 0 1 45.00 454.00 Tm (SKILLS) Tj ET
-0.114 0.231 0.400 RG 0.65 w 45 450.80 m 550 450.80 l S
-0.145 0.190 0.230 rg BT /F2 8 Tf 1 0 0 1 52.00 436.00 Tm (Data & BI:) Tj ET
-0.145 0.190 0.230 rg BT /F1 7.7 Tf 1 0 0 1 98.00 436.00 Tm (Microsoft Excel \(PivotTables, charts, data validation\), SQL \(foundational\), Google BigQuery, Looker Studio, KPI reporting) Tj ET
-0.145 0.190 0.230 rg BT /F2 8 Tf 1 0 0 1 52.00 426.00 Tm (Programming & databases:) Tj ET
-0.145 0.190 0.230 rg BT /F1 7.7 Tf 1 0 0 1 159.00 426.00 Tm (Python \(foundational\), MySQL, PostgreSQL, SQLite, C, C++, Java) Tj ET
-0.145 0.190 0.230 rg BT /F2 8 Tf 1 0 0 1 52.00 416.00 Tm (Tools & technical foundation:) Tj ET
-0.145 0.190 0.230 rg BT /F1 7.7 Tf 1 0 0 1 172.00 416.00 Tm (Git, GitHub Actions, Docker, Linux, Bash, Wireshark, Burp Suite, networking fundamentals) Tj ET
-0.145 0.190 0.230 rg BT /F2 8 Tf 1 0 0 1 52.00 406.00 Tm (Strengths:) Tj ET
-0.145 0.190 0.230 rg BT /F1 7.7 Tf 1 0 0 1 98.00 406.00 Tm (Problem-solving, analytical thinking, teamwork, communication, adaptability) Tj ET
-0.114 0.231 0.400 rg BT /F2 10.4 Tf 1 0 0 1 45.00 395.00 Tm (CERTIFICATIONS & CONTINUOUS LEARNING) Tj ET
-0.114 0.231 0.400 RG 0.65 w 45 391.80 m 550 391.80 l S
-0.145 0.190 0.230 rg BT /F1 8 Tf 1 0 0 1 52.00 377.00 Tm (IBM \226 Python for Data Science & AI: Hands-On Development \(2025\)) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 62.00 367.00 Tm (Credential:) Tj ET
-0.086 0.522 0.459 rg BT /F1 7.8 Tf 1 0 0 1 105.00 367.00 Tm (View certificate) Tj ET
-0.145 0.190 0.230 rg BT /F1 8 Tf 1 0 0 1 52.00 356.00 Tm (IBM \226 Introduction to Cloud Computing \(2025\)) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 62.00 346.00 Tm (Credential:) Tj ET
-0.086 0.522 0.459 rg BT /F1 7.8 Tf 1 0 0 1 105.00 346.00 Tm (View certificate) Tj ET
-0.145 0.190 0.230 rg BT /F1 8 Tf 1 0 0 1 52.00 335.00 Tm (Google Cloud \226 Data Analyst Learning Path \(Google Skills\)) Tj ET
-0.390 0.450 0.490 rg BT /F1 7.8 Tf 1 0 0 1 62.00 325.00 Tm (Status: In Progress \267) Tj ET
-0.086 0.522 0.459 rg BT /F1 7.8 Tf 1 0 0 1 139.00 325.00 Tm (View learning path) Tj ET
-0.114 0.231 0.400 rg BT /F2 10.4 Tf 1 0 0 1 45.00 311.00 Tm (LANGUAGES) Tj ET
-0.114 0.231 0.400 RG 0.65 w 45 307.80 m 550 307.80 l S
-0.145 0.190 0.230 rg BT /F1 8.1 Tf 1 0 0 1 52.00 293.00 Tm (Romanian \(native\)  |  English \(B2, Cambridge FCE 2021\)  |  Spanish \(A2\)) Tj ET
-endstream
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:victor.str8@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 159.5204 748.4154 234.7984 757.5354 ] /Subtype /Link /Type /Annot
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://victor-str-alx.github.io/portofolio/)
+>> /Border [ 0 0 0 ] /Rect [ 245.2256 748.4154 273.1024 757.5354 ] /Subtype /Link /Type /Annot
+>>
 endobj
 6 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/victor-str-alx)
+>> /Border [ 0 0 0 ] /Rect [ 283.5296 748.4154 307.1808 757.5354 ] /Subtype /Link /Type /Annot
+>>
 endobj
 7 0 obj
-<< /Type /Annot /Subtype /Link /Rect [183.00 758.00 275.54 770.20] /Border [0 0 0] /A << /S /URI /URI (mailto:victor.str8@gmail.com) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/victor-str%C3%AEmbeanu-318837287/)
+>> /Border [ 0 0 0 ] /Rect [ 317.608 748.4154 346.336 757.5354 ] /Subtype /Link /Type /Annot
+>>
 endobj
 8 0 obj
-<< /Type /Annot /Subtype /Link /Rect [287.54 758.00 328.92 770.20] /Border [0 0 0] /A << /S /URI /URI (https://victor-str-alx.github.io/portofolio/) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://datastudio.google.com/reporting/77a2dc30-0c3a-47a8-bd9b-3626ca4dcce9)
+>> /Border [ 0 0 0 ] /Rect [ 103.2954 615.0255 155.5985 624.2055 ] /Subtype /Link /Type /Annot
+>>
 endobj
 9 0 obj
-<< /Type /Annot /Subtype /Link /Rect [340.92 758.00 369.50 770.20] /Border [0 0 0] /A << /S /URI /URI (https://github.com/victor-str-alx) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/victor-str-alx/superstore-sales-analysis)
+>> /Border [ 0 0 0 ] /Rect [ 166.0942 615.0255 225.6113 624.2055 ] /Subtype /Link /Type /Annot
+>>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Link /Rect [108.00 624.80 169.97 636.90] /Border [0 0 0] /A << /S /URI /URI (https://datastudio.google.com/reporting/77a2dc30-0c3a-47a8-bd9b-3626ca4dcce9) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://coursera.org/share/70f33b9afa34aacbfb12b9998012d7bf)
+>> /Border [ 0 0 0 ] /Rect [ 95.0078 351.8011 144.7654 360.6811 ] /Subtype /Link /Type /Annot
+>>
 endobj
 11 0 obj
-<< /Type /Annot /Subtype /Link /Rect [181.97 624.80 256.57 636.90] /Border [0 0 0] /A << /S /URI /URI (https://github.com/victor-str-alx/superstore-sales-analysis) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://coursera.org/share/8d165a3df46f9ad429bc1d83425ae7c2)
+>> /Border [ 0 0 0 ] /Rect [ 95.0078 332.1169 144.7654 340.9969 ] /Subtype /Link /Type /Annot
+>>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [104.00 365.00 171.90 376.80] /Border [0 0 0] /A << /S /URI /URI (https://coursera.org/share/70f33b9afa34aacbfb12b9998012d7bf) >> >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.skills.google/paths/18?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=104942811)
+>> /Border [ 0 0 0 ] /Rect [ 57.1716 312.4326 118.044 321.3126 ] /Subtype /Link /Type /Annot
+>>
 endobj
 13 0 obj
-<< /Type /Annot /Subtype /Link /Rect [104.00 344.00 171.90 355.80] /Border [0 0 0] /A << /S /URI /URI (https://coursera.org/share/8d165a3df46f9ad429bc1d83425ae7c2) >> >>
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [138.00 323.00 214.01 334.80] /Border [0 0 0] /A << /S /URI /URI (https://www.skills.google/paths/18?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=104942811) >> >>
+<<
+/PageMode /UseNone /Pages 16 0 R /Type /Catalog
+>>
+endobj
+15 0 obj
+<<
+/Author (Victor-Alexandru Str\356mbeanu) /CreationDate (D:20261103153537+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261103153537+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Junior Data Analyst CV) /Title (Victor-Alexandru Str\356mbeanu - Junior Data Analyst CV) /Trapped /False
+>>
+endobj
+16 0 obj
+<<
+/Count 1 /Kids [ 13 0 R ] /Type /Pages
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3256
+>>
+stream
+Gb!l!9lo&K'#!I0oO0)C9OreV^GD4AA_Bp)J&IKt]2cS\'I7`n&K6aqj/VqFgAi[+[OK5&;4PO);R/uH@&*Vll\D>d=SRrGcY*?`5Cn$6'I\UU%&cN5R#GE,H1fc>>0V.<pqBOU+:R`L*$CJCf*d-`S(bRc`3K6UYsHWAiG,`K!%tgt`>LA0(MC0_](8E3j\kL='(M6b;cUUm=-pA]/Zo4PM`3?c'.1J.$U3Uc7ol:.6,9iBO,#j0*mt8(?JoP86ApR>rj5$^]dF"^iiYuaoiH582)]or3#S<Z_a/4hKAK1<oUkZLeM,T&Y3e8EL,f:>X.ep8SKGO;JQ`(oRH4G=>Z^t8CuU49q.g%A4X5%SA$/nX@#P\4Z-=01B"1<4cYu$6""W#oiH`ABY2Fu[7J"0<r/l=gm@KCnm1bNm?XK3%!l/q4rmZ":$ZBY@=m2C!"]&V<?sM7X]DM^!f!3$".G14&+a'B8S"JG&#+_#F%*<N)r+j%)EC(k[W:"CUjI\Zq9WEIeP?@6peY>,(:gEC0a\eSbM!6U17AF@Tctc)q$]4?.U[`VT9Jn9#dj-?jUr5[am/6Kp3#]/m_gFdbrCd@J/Im9cqK.o/qX+MHThUo8Gde)@T.KA`N7a.\lg6h)nKUAp`2YSa6=@ORE(bYJo0jQj"U@0QcqAY)QfW0*kL[MC0,MeU(CH8.oIgTB)Y#qUBa033*iD?'31[r%O)F)P(-"t5]Z-"K:So8K/ocJ6,6:k7S4rT\%SGf<A]T*?ZF'crgcRUBi)ZkI=X%bj>\!mXo/..P(WN(;?.b5$T*q@\bX4ithOnH?]U6\OEX=7f`)E68^^o:UE^9_>_+Z?&:c(Mr(Y.7Oou!tj%/5orHV,Pm`R>f=EN6.c86^`ZXiNk@Fa-$%PT<s-ZuEAPDEJaFqNJ`]ait++O8*LkEBYVkXY&0Sr/b4%&><^%[`h"I'iRs]@lSg5:Wpn=(Rk%;C5*asXTsMr-eiWl!R6]A"cP<hi&.#R3K%s-'dn!M=$\gk[e^2d&lQL+,PP9RZ2O5b%^M+t&<;Y`e_)"7\fQOYA?7nZm4k+bR6kPR:;p,h#D-WgjI[X=f9YbdQs&2:\]MZ?Yq2]f#%0/%JQ32.GNtO/&lT(J@Had+;i+&FBa-[t1<[g&mHVrhQb2`gJbakW2HQbEPiJ,DF2J;F^[cUm5j-UD,Br$^:L+&!8.GA!&O;j1kO9m\=#ubUlRU(WaXg%8Z!sEC^EC$RrtqZ:mJDTG2EIK&Q-rWQ"%OIHa8Zn8$C=F!=E&u,ofL)Q6LcVH[13S0`d*,kij]0=bV5CKY-nW#"/Z-pWiEZ]*^QAs@MOf*\Er-@_I'A&b;\gi_,/?XY1jXqlIJ>[&5B<N!#?A[LUM,3PN<A-aJSN#V4;Kn/&_(oT81YO;/1$pHN\EE!%(t6UT_eW,\2gp.%q+Wf'2P7fm]26me0n7<o)ZO^^j6j##\ToDZm^-BW+cq05Sd%2tTsOK_E]iIdlg4_>/%hdVkBe/h0sqlc8FVhd%<uErT3as#)6Am(METMZ#UA@Wf9+@&OASKth%qI$M&9jf"[^)D\LjnrH3@b[N201;%dfkgmN)Zh`bE2E#bB>.aADcEXDIgWUaL?0@CI5(#YEKVW/ng/5h0rSbBf6*6Z=$nH/gU/J$Dj/#;R_WdNRF,o.U>+Nc/diOCEEGmsbGCUcsM5X7^O=gtG8"ugP.$;L@Se=ocnHCZr:YI+XlNRL<5[dUJ3$G!GcqED82us^+\sC-"7+WglA$5@q74&Veb&fgn1!D@JH_H&HM-ObV3@3aHd?FltgRR#U3/u2:[GQVI4c<FdpB(9S[K7RLr<fUg'Y^507^O%XA.'rkHZD#3^d'AiNCCo\(]TM<'a7aS7dZB%dBttAkSr,mMe"l,kCkCH(YsD"C!>`hf%N+#Mn.jD&[4GN(d,"X@i66G1buHZVD9V07.l0!+N93XKWa28;JHlK)VPY2+'eGbPMtatX$J`$EpBRjP1q!.)ntc$59oLfH#tVN<)[i2i:q!$rlh_2Mrgd!j1*sW(18&ddSB`&eHu%Z;HlUOJPWB$mE[`9^,O<aV?N6*^IV3=WD"ZL3jZ#7/6<f#oR&XZ;3@*pHUTP'`eWC(^Lb+h&l`X=U5QAKY,[?/L.Wi?>*@9f1i[mZ,o37?"'#HBZUL"ie]3YbT$@N1pd=cq?ePuapmgAIA;R__jn+4[b0XM=$*5iTgg5gFk?^o"b\]e3k9=(-A684IqM73j67pHh7`VM_=+%:"hCmu[_&Z>0K1Kr>P4j<#:nT3[,4T\BegE@JYVHc"Z.,qc+6Yc_^;t39D%20aCB6tMQ-uM\7'7+`dIe)-Fh(1\'#\i=W\0u_\RnDIDCa+\A8ti^aiSC_??cf$IPnL%maS/nBJaV7`^XlLocnZadMSRiD9m!6/o<bp2B<u9&+haG&"fG$4)c2*IL$ubb.\'$qTn/dbU<>2oH00APjX7hmc1kpM/g.T@i?ILH`$\8<Dr%]7oIVG;)^AE&)/:6piJEqqAjEa:[]A_b&6pf:1@Ln?^mTknOtd0k<!X+QX@qC@9^crVH8,!P&7@Tq2QP:0!GK;s0lpYn<'p.$]X97BL<F^'AXkV99G9OFDl'GY)[UZlf$g%$O8H(\6s^D[.r@/I@a_g;>_o+@E<BV6D9]iS1n0K<3(3#jr(.8[l,_Ah<]<T/!8-KlfN^HM*PA5AMRD^Gu]JZ2bqJWDJm\;>k!I(5^/u!DWCnlo&[I'g:Ear,g<Q_?Gb?D5ce_!\I#q2P7<E&:/91#&'cQ?_dTOB`u*t<l,dI\EcHC[L=)Z<IPO#GC:+dVMsX\4iXLn7=i:[rrViH"pQ*Ka<Fss%rN9`PQ#B]06Z;`@5+$OHV^WUA'l**3#+k6UiplR09req49#B<1et/Ys@/PDRD.P(,?!uNgO_nr'^!!FeD:H2bPnHqtFmgCLkUU)1[6/a7mB5:f\fVjtV0fhDms#b[mXuho]qu-NlZ\39d.9)X?,'9efX.X<L\8>sQt&>EQ:kS/<%;$g:-m24QEAoUpLa@g"UbL>9psTI/4Ss!mgE/rPKV=?W',AW3YG\o3`]lU^W(e(e&OCeP%<I+*+d(CYd#Kp*hbcHY6*nG_9r);EVj@4P4dCm\FnF4>'MB;m&!OgrhBk9)VU&7*;*'e/p^$?<oqF7qGq;0LdjDR'ob'e[$'Im5:\2c'7TOK8@4u:kGFNSI.QEQ`ZUg"EMd0RcVR1&`Kc=YGhP=I&+fmW2V`n^h6ahka.C'[?Mt[Ub3%+~>endstream
 endobj
 xref
-0 15
+0 18
 0000000000 65535 f 
-0000000020 00000 n 
-0000000069 00000 n 
-0000000126 00000 n 
-0000000332 00000 n 
-0000007891 00000 n 
-0000007988 00000 n 
-0000008090 00000 n 
-0000008244 00000 n 
-0000008414 00000 n 
-0000008573 00000 n 
-0000008776 00000 n 
-0000008962 00000 n 
-0000009148 00000 n 
-0000009334 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000501 00000 n 
+0000000697 00000 n 
+0000000882 00000 n 
+0000001093 00000 n 
+0000001321 00000 n 
+0000001532 00000 n 
+0000001743 00000 n 
+0000001954 00000 n 
+0000002243 00000 n 
+0000002518 00000 n 
+0000002588 00000 n 
+0000002935 00000 n 
+0000002996 00000 n 
 trailer
-<< /Size 15 /Root 1 0 R >>
+<<
+/ID 
+[<d586576bde43e850d462ad3aaf1dba70><d586576bde43e8509d462ad3aaf1dba70>]
+/Info 15 0 R
+/Root 14 0 R
+/Size 18
+>>
 startxref
-9599
+6344
 %%EOF
